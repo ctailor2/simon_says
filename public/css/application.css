@@ -9,6 +9,15 @@ th {
     text-align: left;
 }
 
+ul {
+  display:inline-block;
+  width: 90%;
+  text-align: center;
+  margin: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
 #color_me li{
  	display:block;
  	width:30%;
